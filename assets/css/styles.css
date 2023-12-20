@@ -83,6 +83,7 @@ img {
 /*===== CLASS CSS ===== */
 .section-title {
   position: relative;
+  font-family: neon;
   font-size: var(--h2-font-size);
   color: var(--first-color);
   margin-top: var(--mb-2);
@@ -146,6 +147,7 @@ img {
   }
 }
 .nav-item {
+  
   margin-bottom: var(--mb-4);
 }
 .nav-link {
@@ -649,4 +651,8 @@ img.man-icons {
   to {
     -webkit-filter: hue-rotate(-360deg);
   }
+}
+
+.Middle-Head{
+  font-family: "Luckiest Guy", Arial;
 }
