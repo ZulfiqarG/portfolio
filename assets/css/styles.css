@@ -534,6 +534,9 @@ img.man-icons {
   .home-social{
     display: block;
   }
+  .animate-charcter{
+    font-size: 24px;
+  }
 }
 
 .mylogo{
@@ -601,7 +604,7 @@ img.man-icons {
   text-align: center;
   /* font: 8em "Baloo", cursive; */
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  /* letter-spacing: 0.1em; */
   color: #193a95;
   animation: anim 10s;
   animation-timing-function: linear;
